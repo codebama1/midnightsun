@@ -1,0 +1,42 @@
+html {
+  font-family: "Times New Roman", Times, serif;;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  width: 380px;
+
+
+}
+#container {
+                width: 300px;
+                border-radius: 15px;
+                box-shadow: 5px 5px 5px lightgrey;
+                background-color: pink;
+                padding: 10px 10px 10px 10px;
+
+            }
+img {
+  border: 0;
+  width: 300px;
+}
+P.fact {
+  font-style:italic;
+}
+p {
+  text-align:center;
+  text-align:justify;
+}
+span {
+  font-weight:bold;
+}
+h3 {
+  font-size: 30px;
+}
+li {
+  list-style-type: none;
+}
+#info {
+  /*box-shadow: 2px 2px 2px lightgrey;*/
+  border-style: solid;;
+  border-color: lightgrey;
+  border-width: thin;
+}
